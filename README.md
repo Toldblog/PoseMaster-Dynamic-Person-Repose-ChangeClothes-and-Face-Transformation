@@ -1,7 +1,7 @@
 # PoseMaster-Dynamic-Person-Repose-and-Face-Transformation
 PoseMorphAI is a comprehensive pipeline built using ComfyUI and Stable Diffusion, designed to reposition people in images, modify their facial features, and change their clothes seamlessly. This solution leverages advanced pose estimation, facial conditioning, image generation, and detail refinement modules for high-quality output.
 
-
+![result](https://github.com/Toldblog/PoseMaster-Dynamic-Person-Repose-and-Face-Transformation/blob/main/output.jpg)
 
 ## Overview
 PoseMaster is an advanced pipeline for transforming images of people by reposing them, changing their facial features, and modifying their clothes. The project uses state-of-the-art models from ComfyUI and Stable Diffusion to deliver realistic transformations. Key functionalities include:
